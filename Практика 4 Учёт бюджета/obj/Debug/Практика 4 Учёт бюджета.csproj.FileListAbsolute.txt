@@ -1,0 +1,12 @@
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета.csproj.AssemblyReference.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета.csproj.SuggestedBindingRedirects.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\MainWindow.baml
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\MainWindow.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\App.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета_MarkupCompile.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета.g.resources
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика_4_Учёт_бюджета.Properties.Resources.resources
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета.csproj.GenerateResource.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Window1.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\Практика 4 Учёт бюджета\Практика 4 Учёт бюджета\obj\Debug\Практика 4 Учёт бюджета_MarkupCompile.lref

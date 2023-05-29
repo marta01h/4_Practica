@@ -1,0 +1,9 @@
+﻿<!-- Основная разметка интерфейса -->
+<Grid>
+    <!-- ... -->
+
+    <!-- Кнопка добавления записи -->
+    <Button x:Name="addRecordButton" Content="Add Record" Click="AddRecordButton_Click" />
+
+    <!-- ... -->
+</Grid>

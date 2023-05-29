@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Практика 4 Учёт бюджета", "Практика 4 Учёт бюджета\Практика 4 Учёт бюджета.csproj", "{E794DA05-E029-4BA8-8D35-60881EA55D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E794DA05-E029-4BA8-8D35-60881EA55D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E794DA05-E029-4BA8-8D35-60881EA55D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E794DA05-E029-4BA8-8D35-60881EA55D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E794DA05-E029-4BA8-8D35-60881EA55D52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15E037E9-0840-4571-BA17-3DA33334754D}
+	EndGlobalSection
+EndGlobal

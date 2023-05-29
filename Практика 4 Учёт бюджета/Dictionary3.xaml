@@ -1,0 +1,12 @@
+﻿<Grid>
+    <!-- Поля для ввода данных новой записи -->
+    <TextBox x:Name="nameTextBox" />
+    <ComboBox x:Name="typeComboBox" ItemsSource="{Binding RecordTypes}" />
+    <TextBox x:Name="amountTextBox" />
+    <CheckBox x:Name="isIncomeCheckBox" Content="Is Income" />
+    <DatePicker x:Name="datePicker" SelectedDate="{Binding SelectedDate}" />
+
+    <!-- Кнопки добавления и изменения записи -->
+    <Button x:Name="addRecordButton" Content="Add Record" Click="AddRecordButton_Click" />
+    <Button x:Name="updateRecordButton" Content="Update Record" Click="UpdateRecordButton_Click" />
+</Grid>

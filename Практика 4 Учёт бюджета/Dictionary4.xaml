@@ -1,0 +1,13 @@
+﻿<!-- Основная разметка интерфейса -->
+<Grid>
+    <!-- Таблица с записями -->
+    <DataGrid x:Name="budgetRecordsGrid" ItemsSource="{Binding BudgetRecords}" SelectedItem="{Binding SelectedRecord}" AutoGenerateColumns="False">
+        <DataGrid.Columns>
+            <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+            <DataGridTextColumn Header="Type" Binding="{Binding Type}" />
+            <DataGridTextColumn Header="Amount" Binding="{Binding Amount}" />
+            <DataGridCheckBoxColumn Header="Is Income" Binding="{Binding IsIncome}" />
+            <DataGridTextColumn Header="Date" Binding="{Binding Date}" />
+        </DataGrid.Columns>
+    </DataGrid>
+</Grid>

@@ -1,0 +1,15 @@
+﻿<!-- Основная разметка интерфейса -->
+<Grid>
+    <!-- Таблица с записями -->
+    <DataGrid x:Name="budgetRecordsGrid" ItemsSource="{Binding BudgetRecords}" AutoGenerateColumns="False">
+        <DataGrid.Columns>
+            <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+            <DataGridTextColumn Header="Type" Binding="{Binding Type}" />
+            <DataGridTextColumn Header="Amount" Binding="{Binding Amount}" />
+            <DataGridTextColumn Header="IsIncome" Binding="{Binding IsIncome}" />
+            <DataGridTextColumn Header="Date" Binding="{Binding Date}" />
+        </DataGrid.Columns>
+    </DataGrid>
+    <!-- Кнопка удаления записи -->
+    <Button x:Name="deleteRecordButton" Content="Delete Record" Click="DeleteRecordButton_Click" />
+</Grid>
